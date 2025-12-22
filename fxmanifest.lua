@@ -10,3 +10,4 @@ shared_scripts {
 }
 
 client_script 'client.lua'
+dependency '/assetpacks'
